@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/devvo/AndroidStudioProjects/MainActivity/app/src/main/res/layout/activity_about_us.xml" value="0.264" />
+        <entry key="..\:/Users/devvo/AndroidStudioProjects/MainActivity/app/src/main/res/layout/activity_events_screen.xml" value="0.264" />
+        <entry key="..\:/Users/devvo/AndroidStudioProjects/MainActivity/app/src/main/res/layout/activity_faq.xml" value="0.264" />
+        <entry key="..\:/Users/devvo/AndroidStudioProjects/MainActivity/app/src/main/res/layout/activity_form.xml" value="0.317481884057971" />
+        <entry key="..\:/Users/devvo/AndroidStudioProjects/MainActivity/app/src/main/res/layout/activity_home_screen.xml" value="0.19302949061662197" />
+        <entry key="..\:/Users/devvo/AndroidStudioProjects/MainActivity/app/src/main/res/layout/activity_main.xml" value="0.29739583333333336" />
+        <entry key="..\:/Users/devvo/AndroidStudioProjects/MainActivity/app/src/main/res/layout/activity_splash_screen.xml" value="0.32382246376811596" />
+        <entry key="..\:/Users/devvo/AndroidStudioProjects/MainActivity/app/src/main/res/layout/header_drawer.xml" value="0.34601449275362317" />
+        <entry key="..\:/Users/devvo/AndroidStudioProjects/MainActivity/app/src/main/res/menu/menu_drawer.xml" value="0.3723958333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.34601449275362317" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
